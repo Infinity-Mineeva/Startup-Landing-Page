@@ -63,7 +63,7 @@ After hearing about Bootstrap for a while, I finally see it in action. I can hon
 
 Items for further study
 ---
-I will DEFINITELY explore Bootstrap more on my own; playing around with my own sites and familiarize myself with all the things this framework can do. 
+I will DEFINITELY explore Bootstrap more on my own; playing around with my own sites and familiarize myself with all the things this library can do. 
 
 
 <br>
